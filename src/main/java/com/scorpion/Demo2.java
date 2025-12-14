@@ -13,5 +13,7 @@ public class Demo2 {
         System.out.println("This changes have to merge in master branch..");
         //Final commit by Shekhar
         System.out.println("This is final commit by Shekhar");
+        //One last final commit
+        System.out.println("This is last final commit on master branch");
     }
 }
