@@ -9,5 +9,7 @@ public class Demo2 {
         System.out.println("This is GitHub Demo");
         //Changes by Shekhar
         System.out.println("Rename branch from Shekhar to Develop");
+        //Changes by Shekhar
+        System.out.println("This changes have to merge in master branch..");
     }
 }
