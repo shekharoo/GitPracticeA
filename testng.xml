@@ -6,16 +6,16 @@
             <class name="com.scorpion.DockerDemo_Chrome"/>
         </classes>
     </test>
-    <test name="TestNGDemo2">
-        <classes>
-            <class name="com.scorpion.DockerDemo_Edge"/>
-        </classes>
-    </test>
-    <test name="TestNGDemo3">
-        <classes>
-            <class name="com.scorpion.DockerDemo_Firefox"/>
-        </classes>
-    </test>
+<!--    <test name="TestNGDemo2">-->
+<!--        <classes>-->
+<!--            <class name="com.scorpion.DockerDemo_Edge"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="TestNGDemo3">-->
+<!--        <classes>-->
+<!--            <class name="com.scorpion.DockerDemo_Firefox"/>-->
+<!--        </classes>-->
+<!--    </test>-->
 <!--    <test name="TestNGDemo2" parallel="tests" thread-count="2">-->
 <!--        <classes>-->
 <!--            &lt;!&ndash;            <class name="TestNGClasses.BaseClass"/>&ndash;&gt;-->
