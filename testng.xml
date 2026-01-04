@@ -3,17 +3,17 @@
 <suite name="Suite1" verbose="10" parallel="classes" thread-count="5">
     <test name="TestNGDemo1">
         <classes>
-            <class name="scorpion.DockerDemo_Chrome"/>
+            <class name="com.scorpion.DockerDemo_Chrome"/>
         </classes>
     </test>
     <test name="TestNGDemo2">
         <classes>
-            <class name="scorpion.DockerDemo_Edge"/>
+            <class name="com.scorpion.DockerDemo_Edge"/>
         </classes>
     </test>
     <test name="TestNGDemo3">
         <classes>
-            <class name="scorpion.DockerDemo_Firefox"/>
+            <class name="com.scorpion.DockerDemo_Firefox"/>
         </classes>
     </test>
 <!--    <test name="TestNGDemo2" parallel="tests" thread-count="2">-->
