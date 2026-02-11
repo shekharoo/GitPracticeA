@@ -3,7 +3,7 @@
 <suite name="Suite1" verbose="10" parallel="classes" thread-count="5">
     <test name="TestNGDemo1">
         <classes>
-            <class name="com.scorpion.DockerDemo_Chrome"/>
+            <class name="com.scorpion.Demo"/>
         </classes>
     </test>
 <!--    <test name="TestNGDemo2">-->
